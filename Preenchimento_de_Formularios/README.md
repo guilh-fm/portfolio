@@ -8,6 +8,7 @@ As aplicações foram desenvolvidas para acelerar o processo de preenchimento de
 
 ### 2. Estrutura do Diretório
 
+```
 .
 ├── CLARO-ALGAR/
 │ ├── pfica.py
@@ -23,7 +24,9 @@ As aplicações foram desenvolvidas para acelerar o processo de preenchimento de
 │ └── README.md
 │
 └── README.md
+```
 
 ### 3. Como Utilizar
 
 Cada aplicação tem seu próprio "README.md" com instruções e maiores detalhes para execução e possuem arquivos para testes.
+
