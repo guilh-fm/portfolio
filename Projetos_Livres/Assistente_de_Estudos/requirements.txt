@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+langchain==0.2.16
+langchain-core==0.2.41
+langchain-community==0.2.16
+langchain-text-splitters==0.2.4
+langchain-openai==0.1.23
+langchain-groq==0.1.6
+langsmith==0.1.147
+faiss-cpu
+tiktoken
+pypdf
+sentence-transformers

@@ -1,0 +1,4 @@
+customtkinter
+openpyxl
+python-docx
+pywin32
